@@ -1,1 +1,2 @@
+// vim:ft=groovy
 apply plugin: 'java'
