@@ -1,2 +1,5 @@
 // vim:ft=groovy
 apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = "ch.hotstuff.gradletest.Hello"
